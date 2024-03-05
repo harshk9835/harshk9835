@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react,MERN**
+- 💬 Ask me about **C,C++,react,MERN**
 
 - 📫 How to reach me **contactharsh98@gmail.com**
 
